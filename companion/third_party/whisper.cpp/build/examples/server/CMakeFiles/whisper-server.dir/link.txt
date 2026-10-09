@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG "CMakeFiles/whisper-server.dir/server.cpp.o" -o ../../bin/whisper-server  -Wl,-rpath,/home/theom/robot/third_party/whisper.cpp/build/bin: ../libcommon.a ../../bin/libwhisper.so.1.9.3 ../../bin/libggml.so.0.22.0 ../../bin/libggml-cpu.so.0.22.0 ../../bin/libggml-base.so.0.22.0 -ldl 

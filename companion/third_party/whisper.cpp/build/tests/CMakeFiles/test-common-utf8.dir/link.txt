@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG "CMakeFiles/test-common-utf8.dir/test-common-utf8.cpp.o" -o ../bin/test-common-utf8  -Wl,-rpath,/home/theom/robot/third_party/whisper.cpp/build/bin ../examples/libcommon.a ../bin/libwhisper.so.1.9.3 ../bin/libggml.so.0.22.0 ../bin/libggml-cpu.so.0.22.0 ../bin/libggml-base.so.0.22.0 -ldl 

@@ -1,0 +1,3 @@
+/home/theom/robot/robot_main/build_duo/CMakeFiles/robot_main.dir
+/home/theom/robot/robot_main/build_duo/CMakeFiles/edit_cache.dir
+/home/theom/robot/robot_main/build_duo/CMakeFiles/rebuild_cache.dir
