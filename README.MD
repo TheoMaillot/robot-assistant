@@ -8,6 +8,8 @@ The robot is based on a Milk-V Duo S board, handling real-time audio capture, en
 
 ## Current architecture Overview
 
+![alt text](https://github.com/TheoMaillot/robot-assistant/blob/main/other/img/Sch%C3%A9ma%20robot.png)
+
 ---
 
 ## Key Features
