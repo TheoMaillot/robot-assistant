@@ -11,6 +11,8 @@ The robot is based on a Milk-V Duo S board, handling real-time audio capture, en
  - solve problems with kokoro
  - send raw audio from companion device to robot
  - output the audio using the robot's speaker
+ - make a body for the robot
+ - add camera input
 
 ---
 
