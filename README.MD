@@ -6,6 +6,14 @@ The robot is based on a Milk-V Duo S board, handling real-time audio capture, en
 
 ---
 
+## TO-DO
+
+ - solve problems with kokoro
+ - send raw audio from companion device to robot
+ - output the audio using the robot's speaker
+
+---
+
 ## Current architecture Overview
 
 ![alt text](https://github.com/TheoMaillot/robot-assistant/blob/main/other/img/Sch%C3%A9ma%20robot.png)
